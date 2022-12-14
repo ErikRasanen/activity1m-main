@@ -2,7 +2,7 @@
   "name": "react-testing",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ErikRasanen.github.io/activity1m/",
+  "homepage": "https://erikrasanen.github.io/activity1m-main/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
